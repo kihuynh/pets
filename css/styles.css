@@ -1,0 +1,33 @@
+h1, h2 {
+  text-align:center;
+  font-family:'Pacifico', cursive;
+  color:rgb(121, 167, 242);
+}
+
+h1{
+  font-size:50px;
+}
+h2 {
+  font-family:'Open Sans', sans-serif;
+}
+
+img {
+  display:block;
+  margin:auto;
+  border-style: solid;
+  border-color: white;
+  }
+
+p {
+  text-align:center;
+}
+
+ul{
+  list-style-type: none;
+  text-align:center;
+  display: inline;
+}
+
+body {
+  background: linear-gradient(to right, #c9d6ff, #e2e2e2);
+}
